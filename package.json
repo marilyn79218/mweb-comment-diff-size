@@ -1,0 +1,11 @@
+{
+  "name": "mweb-comment-diff-size",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ray.lei <ray.lei@thecarousell.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+name: 'mweb comment diff'
+description: 'Add bundlesize diff comment by PR in mweb'
+inputs:
+  new-sizes:  # id of input
+    description: 'Who to greet'
+    required: true
+    default: 'World'
+runs:
+  using: 'node12'
+  main: 'index.js'
